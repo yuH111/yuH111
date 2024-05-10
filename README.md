@@ -1,7 +1,6 @@
-### Hi there 👋
-🔭 My Name's Huy
+### Hi 👋, I'm Huy
+A passionate Frontend developer form VietNam
 🌱 I’m currently learning at DuyTan Universsity.
-💬 Link to [Contact for me].(https://www.facebook.com/qhuyy11/)
 
 
 <!--
