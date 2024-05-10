@@ -1,7 +1,9 @@
 ### Hi there 👋
-🌱 I’m currently learning Java,Kotlin,JavaScript.
-https://www.facebook.com/qhuyy11/
-💬 Link to [contact for me] (https://www.facebook.com/qhuyy11/)
+🔭 My Name's Huy
+🌱 I’m currently learning at DuyTan Universsity.
+💬 Link to [Contact for me].(https://www.facebook.com/qhuyy11/)
+
+
 <!--
 **yuH111/yuH111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
