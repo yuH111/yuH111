@@ -9,7 +9,7 @@
 
 - 👯 I'm studying here at [DuyTan University](https://duytan.edu.vn/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/yuH111/yuH111/](https://github.com/yuH111/yuH111/)
+- 🤝All of my projects are available a [yuH111](https://github.com/yuH111/yuH111/)
 
 - 📫 How to reach me **qhuynguyenthai@gmail.com**
 
@@ -17,8 +17,8 @@
 <p align="left">
 <a href="https://twitter.com/yuh0611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuh0611" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/qhuyy11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/qhuyy11/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/qhuynguyenthai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/qhuynguyenthai" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/qhuynguyenthai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/qhuynguyenthai" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yuh111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yuh111" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerrank.com/qhuynguyenthai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/qhuynguyenthai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
