@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning Java,Kotlin,JavaScript
+Link to [contact for me] (https://www.facebook.com/qhuyy11/)
 <!--
 **yuH111/yuH111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
