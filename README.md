@@ -12,4 +12,3 @@
 - 🤝All of my projects are available a [yuH111](https://github.com/yuH111/yuH111/)
 
 - 📫 How to reach me **qhuynguyenthai@gmail.com**
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuh111&show_icons=true&locale=en" alt="yuh111" /></p>
